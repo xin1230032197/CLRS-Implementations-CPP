@@ -1,2 +1,5 @@
 ﻿  clrscpp.cpp
-  clrscpp.vcxproj -> D:\clrscpp\clrscpp\x64\Debug\clrscpp.exe
+D:\clrscpp\clrscpp\clrscpp.cpp(7,6): error C2601: “woaini”: 本地函数定义是非法的
+      D:\clrscpp\clrscpp\clrscpp.cpp(3,12):
+      此行有一个“{”没有匹配项
+  
