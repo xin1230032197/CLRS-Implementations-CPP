@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\clrscpp\\clrscpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D05654-1CA2-4CF9-9D5D-004CBEE133DA}|clrscpp.vcxproj|D:\\clrscpp\\clrscpp\\clrscpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4D05654-1CA2-4CF9-9D5D-004CBEE133DA}|clrscpp.vcxproj|solutionrelative:clrscpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clrscpp.cpp",
+              "DocumentMoniker": "D:\\clrscpp\\clrscpp\\clrscpp.cpp",
+              "RelativeDocumentMoniker": "clrscpp.cpp",
+              "ToolTip": "D:\\clrscpp\\clrscpp\\clrscpp.cpp",
+              "RelativeToolTip": "clrscpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T05:38:08.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
