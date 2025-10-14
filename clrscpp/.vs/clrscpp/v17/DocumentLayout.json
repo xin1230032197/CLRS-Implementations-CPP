@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\clrscpp\\clrscpp\\",
+  "WorkspaceRootPath": "E:\\clrsc\u002B\u002B\\clrscpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4D05654-1CA2-4CF9-9D5D-004CBEE133DA}|clrscpp.vcxproj|D:\\clrscpp\\clrscpp\\clrscpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F4D05654-1CA2-4CF9-9D5D-004CBEE133DA}|clrscpp.vcxproj|E:\\clrsc\u002B\u002B\\clrscpp\\clrscpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4D05654-1CA2-4CF9-9D5D-004CBEE133DA}|clrscpp.vcxproj|solutionrelative:clrscpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Bookmark",
@@ -36,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "clrscpp.cpp",
-              "DocumentMoniker": "D:\\clrscpp\\clrscpp\\clrscpp.cpp",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\clrscpp\\clrscpp.cpp",
               "RelativeDocumentMoniker": "clrscpp.cpp",
-              "ToolTip": "D:\\clrscpp\\clrscpp\\clrscpp.cpp",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\clrscpp\\clrscpp.cpp",
               "RelativeToolTip": "clrscpp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

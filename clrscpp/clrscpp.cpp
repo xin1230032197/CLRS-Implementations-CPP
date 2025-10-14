@@ -4,7 +4,6 @@ int main() {
 	int a;
 	char b;
 	cout << "text" << endl;
-	int woaini() {
-		return 0;
+	cout << "this is most text of the git of it";
+	//ok this is sound good and i will begin to do it
 	}
-}
