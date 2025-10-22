@@ -1,7 +1,43 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E91A8FAE-AB77-44DB-B922-17E5E9B8BDF2}|TestRunner\\TestRunner.vcxproj|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\TestRunner\\TestRunner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E91A8FAE-AB77-44DB-B922-17E5E9B8BDF2}|TestRunner\\TestRunner.vcxproj|solutionrelative:TestRunner\\TestRunner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\Algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|solutionrelative:Algorithms\\Algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|solutionrelative:Algorithms\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|solutionrelative:Algorithms\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|solutionrelative:Algorithms\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\clrsc\u002B\u002B\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\quick_sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|solutionrelative:Algorithms\\quick_sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90AF6BE4-D4D2-4263-8C99-446989E35391}|Algorithms\\Algorithms.vcxproj|solutionrelative:Algorithms\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\clrsc\u002B\u002B\\CLRS_Implementations\\TestRunner\\TestRunner.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestRunner\\TestRunner.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +78,120 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "framework.h",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\framework.h",
+              "RelativeDocumentMoniker": "Algorithms\\framework.h",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\framework.h",
+              "RelativeToolTip": "Algorithms\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T09:15:56.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": "..\\.vs\\tasks.vs.json",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\.vs\\tasks.vs.json",
+              "RelativeToolTip": "..\\.vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T08:52:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Algorithms.cpp",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\Algorithms.cpp",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithms.cpp",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\Algorithms.cpp",
+              "RelativeToolTip": "Algorithms\\Algorithms.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T08:19:51.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestRunner.vcxproj.user",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\TestRunner\\TestRunner.vcxproj.user",
+              "RelativeDocumentMoniker": "TestRunner\\TestRunner.vcxproj.user",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\TestRunner\\TestRunner.vcxproj.user",
+              "RelativeToolTip": "TestRunner\\TestRunner.vcxproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-10-22T08:12:57.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "quick_sort.h",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\quick_sort.h",
+              "RelativeDocumentMoniker": "Algorithms\\quick_sort.h",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\quick_sort.h",
+              "RelativeToolTip": "Algorithms\\quick_sort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T08:11:28.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.h",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\pch.h",
+              "RelativeDocumentMoniker": "Algorithms\\pch.h",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\pch.h",
+              "RelativeToolTip": "Algorithms\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T08:09:33.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\pch.cpp",
+              "RelativeDocumentMoniker": "Algorithms\\pch.cpp",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\pch.cpp",
+              "RelativeToolTip": "Algorithms\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T08:09:28.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "quick_sort.cpp",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\quick_sort.cpp",
+              "RelativeDocumentMoniker": "Algorithms\\quick_sort.cpp",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\Algorithms\\quick_sort.cpp",
+              "RelativeToolTip": "Algorithms\\quick_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T08:06:54.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestRunner.cpp",
+              "DocumentMoniker": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\TestRunner\\TestRunner.cpp",
+              "RelativeDocumentMoniker": "TestRunner\\TestRunner.cpp",
+              "ToolTip": "E:\\clrsc\u002B\u002B\\CLRS_Implementations\\TestRunner\\TestRunner.cpp",
+              "RelativeToolTip": "TestRunner\\TestRunner.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T08:05:00.453Z",
+              "EditorCaption": ""
             }
           ]
         }

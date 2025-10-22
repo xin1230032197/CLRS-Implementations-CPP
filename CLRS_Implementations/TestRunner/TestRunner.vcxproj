@@ -129,6 +129,14 @@
   <ItemGroup>
     <ClCompile Include="TestRunner.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Algorithms\Algorithms.vcxproj">
+      <Project>{90af6be4-d4d2-4263-8c99-446989e35391}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\DataStructures\DataStructures.vcxproj">
+      <Project>{637e3356-9ce8-41b4-ad1f-60be3ad1f6d7}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

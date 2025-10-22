@@ -7,7 +7,12 @@
 #ifndef PCH_H
 #define PCH_H
 
-// 添加要在此处预编译的标头
-#include "framework.h"
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <memory>
+#include <utility>
+
 
 #endif //PCH_H
