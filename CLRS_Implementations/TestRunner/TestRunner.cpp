@@ -1,4 +1,4 @@
-﻿#include "E:\clrsc++\CLRS_Implementations\Algorithms\quick_sort.h" 
+﻿#include "../Algorithms/quick_sort.h"
 #include <iostream>
 #include <vector>
 using namespace std;
