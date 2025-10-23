@@ -1,5 +1,6 @@
 ﻿  pch.cpp
   Algorithms.cpp
+  erfen.cpp
   quick_sort.cpp
   正在生成代码...
-  Algorithms.vcxproj -> D:\clrscpp\CLRS_Implementations\x64\Debug\Algorithms.lib
+D:\clrscpp\CLRS_Implementations\Algorithms\erfen.cpp(26,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
