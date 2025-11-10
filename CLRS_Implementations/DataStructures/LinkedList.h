@@ -2,6 +2,7 @@
 #define LINKED_LIST
 #include <iostream>
 #include <memory>
+#include <stdexcept>
 namespace clrs {
 	namespace data {
 	template<typename T>
@@ -33,13 +34,64 @@ namespace clrs {
 			_head = new_node;
 			_size++;
 		};/*这个is 加入head front*/
-		void push_back(T aim);
-		void pop_front();
-		void pop_back();
-		bool isEmpty() const;
-		int getSize() const;
-		T front() const;
-		T back() const;
+		void push_back(T aim) {
+			auto new_node=std::make_shared<node>(aim);
+			if (!isEmpty()) {
+				_tail.lock()->next = new_node;
+				new_node->front = _tail.lock();
+			}
+			else {
+				_head = new_node;
+			}
+			_tail = new_node;
+			_size++;
+		};
+		void pop_front() {
+			if (isEmpty()) {
+				throw std::out_of_range("isempty of the list");
+			}
+			_size--;
+			if (_head->next == nullptr) {
+				_head = nullptr;
+				_tail.reset();
+			}
+			else {
+				_head = _head->next;
+				_head->front = nullptr;
+			}
+		};
+		void pop_back() {
+			if (isEmpty()) {
+				throw std::out_of_range("is empty of the list");
+			}
+			_size--;
+			if (_head->next == nullptr) {
+				_head = nullptr;
+				_tail.reset();
+			}
+			else {
+				_tail = _tail.lock()->front.lock();
+				_tail.lock()->next = nullptr;
+			}
+		};
+		bool isEmpty() const {
+			return _head == nullptr;
+		};
+		int getSize() const {
+			return _size;
+		};
+		T front() const {
+			if (!isEmpty())
+				return _head->data;
+			else
+				throw std::out_of_range("is empty");
+		};
+		T back() const {
+			if (!isEmpty())
+				return _tail.lock()->data;
+			else
+				throw std::out_of_range("is empty");
+		};
 		};
 	};
 
